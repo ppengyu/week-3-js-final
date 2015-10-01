@@ -184,9 +184,9 @@ function initMap() {
   var mwContentString = '<div id="content">'+
       '<div id="siteNotice">'+
  '</div>'+
-      '<h1 id="firstHeading" class="firstHeading">Aquablu, my apartment</h1>'+
+      '<h1 id="firstHeading" class="firstHeading">My favourite supermarket.</h1>'+
       '<div id="bodyContent">'+
-      '<img src="image/002.jpg">'+
+      '<img src="image/005.jpg">'+
       '<p> September 1st, 2015, Kun, Ruoran and me moved to Aquablu and began our journey at United States formally. ' +
       'The view of the my room is perfect! Every morning I can enjoy a super beautiful sunrise.</p>'+
       '<p> We have spent so much time on our rooms. We went to IKEA for 3 times. You know, for the '+
@@ -220,7 +220,7 @@ function initMap() {
 //DuanneReade
 
 //坐标
-  var drCoords = {lat: 40.72824256, lng: -74.03162956};
+  var drCoords = {lat: 40.7273726, lng: -74.03044939};
 //图形范围
   var drRange = [
       {lat: 40.72800271, lng: -74.03188705},
@@ -243,19 +243,10 @@ function initMap() {
 
 //信息框的内容
   var drContentString = '<div id="content">'+
-      '<div id="siteNotice">'+
- '</div>'+
-      '<h1 id="firstHeading" class="firstHeading">Aquablu, my apartment</h1>'+
+      '<h1 id="firstHeading" class="firstHeading">View of Manhattan</h1>'+
       '<div id="bodyContent">'+
-      '<img src="image/002.jpg">'+
-      '<p> September 1st, 2015, Kun, Ruoran and me moved to Aquablu and began our journey at United States formally. ' +
-      'The view of the my room is perfect! Every morning I can enjoy a super beautiful sunrise.</p>'+
-      '<p> We have spent so much time on our rooms. We went to IKEA for 3 times. You know, for the '+
-      'girls first got chance to decorate their rooms, how excited it can be!</p> '+
-      '<img src="image/001.jpg">'+
-      '<img src="image/004.jpg">'+
-      '<p> The first day we moved in, we cooked our first dinner together! It was really fun!</p> '+
-      '<img src="image/003.jpg">'+
+      '<img src="image/006.jpg">'+
+       '<img src="image/007.jpg">'+
       '</div>'+
       '</div>';
 
@@ -374,17 +365,10 @@ function initMap() {
   var drContentString = '<div id="content">'+
       '<div id="siteNotice">'+
  '</div>'+
-      '<h1 id="firstHeading" class="firstHeading">Aquablu, my apartment</h1>'+
+       '<h1 id="firstHeading" class="firstHeading">View of Manhattan</h1>'+
       '<div id="bodyContent">'+
-      '<img src="image/002.jpg">'+
-      '<p> September 1st, 2015, Kun, Ruoran and me moved to Aquablu and began our journey at United States formally. ' +
-      'The view of the my room is perfect! Every morning I can enjoy a super beautiful sunrise.</p>'+
-      '<p> We have spent so much time on our rooms. We went to IKEA for 3 times. You know, for the '+
-      'girls first got chance to decorate their rooms, how excited it can be!</p> '+
-      '<img src="image/001.jpg">'+
-      '<img src="image/004.jpg">'+
-      '<p> The first day we moved in, we cooked our first dinner together! It was really fun!</p> '+
-      '<img src="image/003.jpg">'+
+      '<img src="image/006.jpg">'+
+       '<img src="image/007.jpg">'+
       '</div>'+
       '</div>';
 
