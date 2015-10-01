@@ -1,15 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,100,300);
+
+
 body{
 	margin:0px;
 }
 .menu{
-	display: inline-block;
-	width: 20vw;
+	
 	text-align: center;
-	height: 15vh;
+	height: 12vh;
 	margin-top: 5vh;
 }
 #title{
 	width: 50vw;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 700;
+	font-size: 30;
+
 }
 #head{
 	
