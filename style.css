@@ -1,0 +1,38 @@
+body{
+	margin:0px;
+}
+.menu{
+	display: inline-block;
+	width: 20vw;
+	text-align: center;
+	height: 15vh;
+	margin-top: 5vh;
+}
+#title{
+	width: 50vw;
+}
+#head{
+	
+	/*background-color: yel;*/
+}
+
+#map{
+	width: 100vw;
+	height: 80vh;
+	background-color: black;
+}
+
+#aquablu{
+	background-color: red;
+	width: 50vw;
+	height:80vh;
+	position: fixed;
+	left: 150vw;
+	top: 20vh;
+}
+
+#aquabluContainer{
+	background-color: orange;
+	margin-left: 3vw;
+	margin-top: 5vh;
+}
